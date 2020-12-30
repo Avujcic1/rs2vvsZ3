@@ -1,0 +1,20 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-StudentskiDomTest",
+      "appliesTo": "Domari/Domari/StudentskiDomTest.cs",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-StudentskiDomTest",
+      "appliesTo": "Domari/Domari/StudentskiDomTest.cs",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-StudentskiDomTest",
+      "appliesTo": "Domari/Domari/StudentskiDomTest.cs",
+      "type": "launch"
+    }
+  ]
+}

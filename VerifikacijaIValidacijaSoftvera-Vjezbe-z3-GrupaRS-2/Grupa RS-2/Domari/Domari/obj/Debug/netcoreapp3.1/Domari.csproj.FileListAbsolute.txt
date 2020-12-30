@@ -1,0 +1,15 @@
+C:\Users\Ehlimana\Desktop\r\rs2\Domari\Domari\bin\Debug\netcoreapp3.1\Domari.deps.json
+C:\Users\Ehlimana\Desktop\r\rs2\Domari\Domari\bin\Debug\netcoreapp3.1\Domari.dll
+C:\Users\Ehlimana\Desktop\r\rs2\Domari\Domari\bin\Debug\netcoreapp3.1\Domari.pdb
+C:\Users\Ehlimana\Desktop\r\rs2\Domari\Domari\obj\Debug\netcoreapp3.1\Domari.AssemblyInfoInputs.cache
+C:\Users\Ehlimana\Desktop\r\rs2\Domari\Domari\obj\Debug\netcoreapp3.1\Domari.AssemblyInfo.cs
+C:\Users\Ehlimana\Desktop\r\rs2\Domari\Domari\obj\Debug\netcoreapp3.1\Domari.csproj.CoreCompileInputs.cache
+C:\Users\Ehlimana\Desktop\r\rs2\Domari\Domari\obj\Debug\netcoreapp3.1\Domari.dll
+C:\Users\Ehlimana\Desktop\r\rs2\Domari\Domari\obj\Debug\netcoreapp3.1\Domari.pdb
+C:\Users\Ehlimana\Desktop\r\rs2\Domari\Domari\obj\Debug\netcoreapp3.1\Domari.csprojAssemblyReference.cache
+C:\Users\ANc\Desktop\VerifikacijaIValidacijaSoftvera-Vjezbe-z3-GrupaRS-2\Grupa RS-2\Domari\Domari\obj\Debug\netcoreapp3.1\Domari.csprojAssemblyReference.cache
+C:\Users\ANc\Desktop\VerifikacijaIValidacijaSoftvera-Vjezbe-z3-GrupaRS-2\Grupa RS-2\Domari\Domari\obj\Debug\netcoreapp3.1\Domari.AssemblyInfoInputs.cache
+C:\Users\ANc\Desktop\VerifikacijaIValidacijaSoftvera-Vjezbe-z3-GrupaRS-2\Grupa RS-2\Domari\Domari\obj\Debug\netcoreapp3.1\Domari.AssemblyInfo.cs
+C:\Users\ANc\Desktop\VerifikacijaIValidacijaSoftvera-Vjezbe-z3-GrupaRS-2\Grupa RS-2\Domari\Domari\obj\Debug\netcoreapp3.1\Domari.csproj.CoreCompileInputs.cache
+C:\Users\ANc\Desktop\VerifikacijaIValidacijaSoftvera-Vjezbe-z3-GrupaRS-2\Grupa RS-2\Domari\Domari\obj\Debug\netcoreapp3.1\Domari.dll
+C:\Users\ANc\Desktop\VerifikacijaIValidacijaSoftvera-Vjezbe-z3-GrupaRS-2\Grupa RS-2\Domari\Domari\obj\Debug\netcoreapp3.1\Domari.pdb
